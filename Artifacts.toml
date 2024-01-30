@@ -6,7 +6,7 @@ os = "macos"
 
     [[smesh.download]]
     sha256 = "c75f92a098805a569977429751f4375860341820693a4699c4dd7c5239666b45"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[smesh]]
 arch = "aarch64"
 git-tree-sha1 = "020621f4b75050bc6e925378fac3c5b11f68dc44"
@@ -16,7 +16,7 @@ os = "linux"
 
     [[smesh.download]]
     sha256 = "b7f93970f3b98c64004a4cabb870faec1f17369842bed32828671328bc45ddd8"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[smesh]]
 arch = "aarch64"
 git-tree-sha1 = "d996c33c6d2e82726d7583564d70c092c4b9c148"
@@ -26,7 +26,7 @@ os = "linux"
 
     [[smesh.download]]
     sha256 = "e1fef7656abf1772a899f34d0f0683370c8926b1604348a7d72c57b3f56d44c0"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.aarch64-linux-musl-libgfortran5.tar.gz"
 [[smesh]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -37,7 +37,7 @@ os = "linux"
 
     [[smesh.download]]
     sha256 = "909b63eb5da84003486b8b667cbbfc0f3eee9a19e6570181cea6e1183f2d50e1"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[smesh]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -48,7 +48,7 @@ os = "linux"
 
     [[smesh.download]]
     sha256 = "41810cbc612a1dbbe5fad7f57da934e342ed43e7db42edc42fb9c1b41b7a8c50"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[smesh]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -59,7 +59,7 @@ os = "linux"
 
     [[smesh.download]]
     sha256 = "9b1f4536a0c1d64d524a18d8ac57259e12997ab0d0c4a106b0b19ce3f5b40f55"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[smesh]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -70,7 +70,7 @@ os = "linux"
 
     [[smesh.download]]
     sha256 = "1d09f1cee70d148eb2de93abbbb78ae246b3556af1eb589311ffc8e4ccbfebce"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[smesh]]
 arch = "i686"
 git-tree-sha1 = "e75016ed4edbcbecb1a3defa85d0c700ca21e0bd"
@@ -80,7 +80,7 @@ os = "linux"
 
     [[smesh.download]]
     sha256 = "07da0fd696b2840a4c0b020afb411cfd3326f26d7f264794fd9a9c4e86cd24e7"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.i686-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.i686-linux-gnu-libgfortran5.tar.gz"
 [[smesh]]
 arch = "i686"
 git-tree-sha1 = "3ecbdc7389d4ed12cbddb0dc28926462d9b6f10f"
@@ -90,7 +90,7 @@ os = "linux"
 
     [[smesh.download]]
     sha256 = "fab3ab89ef278d2d4d1b0c70957a84ddfced4d802a88ebacc76cca6590947d0d"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.i686-linux-musl-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.i686-linux-musl-libgfortran5.tar.gz"
 [[smesh]]
 arch = "i686"
 git-tree-sha1 = "30ff25bd0282973e70037b60e0a609dba23bbf45"
@@ -99,7 +99,7 @@ os = "windows"
 
     [[smesh.download]]
     sha256 = "56da1985a7921ea10eeb21776e7fcbdb6481cf9c2e9c33f485576d61ce3947f2"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.i686-w64-mingw32-libgfortran5.tar.gz"
 [[smesh]]
 arch = "powerpc64le"
 git-tree-sha1 = "cd1a32bdafcf9020626ff0e4b0cf409b56b83fb8"
@@ -109,7 +109,7 @@ os = "linux"
 
     [[smesh.download]]
     sha256 = "412af2cfc4f27781bd1d42dfc78cb16749af922c7b2a46395b0b2bbbec09099f"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[smesh]]
 arch = "x86_64"
 git-tree-sha1 = "57fe4b8865232ae615cef047c6ef6f7ad35ebf3b"
@@ -118,7 +118,7 @@ os = "macos"
 
     [[smesh.download]]
     sha256 = "798a210fe795ab2b6d6023cdc27e392eeef1907e178a146e3f9cdf73b2095b82"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[smesh]]
 arch = "x86_64"
 git-tree-sha1 = "10b6f1f5d9c3bb6ec4c426855541514683ece617"
@@ -128,7 +128,7 @@ os = "linux"
 
     [[smesh.download]]
     sha256 = "096f2791e530aa0f428d68caa4b79c64395928da36a8e65f5c4c9c81ff70e873"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[smesh]]
 arch = "x86_64"
 git-tree-sha1 = "f31bcf7288ec1fbef5815548f773d305e3ae6599"
@@ -138,7 +138,7 @@ os = "linux"
 
     [[smesh.download]]
     sha256 = "15f1ded23bb8e76926d1454ce3f15cd616d6ebe51d437e86ee60a69ea41bc7ed"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.x86_64-linux-musl-libgfortran5.tar.gz"
 [[smesh]]
 arch = "x86_64"
 git-tree-sha1 = "f0ce9b1ca68e82db5f65c94985c8787ac02ebd07"
@@ -147,7 +147,7 @@ os = "freebsd"
 
     [[smesh.download]]
     sha256 = "1279dbddc77b4700da4a9f572427875d7781b7a4976ac56fbdaaca0faa5a4e70"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[smesh]]
 arch = "x86_64"
 git-tree-sha1 = "0075611101553cb99e0739dc627d1393a5aad3ca"
@@ -156,4 +156,4 @@ os = "windows"
 
     [[smesh.download]]
     sha256 = "aff67226a96a4ebb6f8e4e0d94afa6fa113b3764f32b03a6d1ae8082088b24a3"
-    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.0+0/smesh.v0.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/smesh_jll.jl/releases/download/smesh-v0.1.1+0/smesh.v0.1.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
