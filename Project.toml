@@ -1,6 +1,6 @@
 name = "smesh_jll"
 uuid = "e8c45408-479c-54df-ae5b-4501057d3a5a"
-version = "0.1.1+0"
+version = "0.1.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
